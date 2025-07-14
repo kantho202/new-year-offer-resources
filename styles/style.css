@@ -290,7 +290,7 @@ section a {
 }
 
 .holidays-description {
-   padding-bottom: 64px;
+   padding-bottom: 220px;
 }
 
 .pic-1 {
@@ -305,22 +305,22 @@ section a {
 .pic-1{
      position: absolute;
      z-index: 100;
-     top: 570%;
-    width: 674px;
-    height: 577px;
-     left: 50px;
+     top: 600%;
+    width: 600px;
+    height: 530px;
+     left: 130px;
 }  
 .pic-2{
     margin-bottom: 20px;
     position: relative;
     width: 10%;
-    height: 229px;
+    height: 180px;
 }
 
 .holidays-image {
     background-image: url('../images/Rectangle\ 2.png');
     background-repeat: no-repeat;
-
+    background-size: contain;
 }
 
 /* git-image */
